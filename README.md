@@ -1,5 +1,5 @@
-# Exam C in linux operative system
+# Exam C in Linux Operating System
 
-Collection of my answers to the tasks given on the exam in C language implementation autumn 2022. 
+This document contains my answers from the Exam C in the Linux Operating System course, focused on C language implementation, from autumn 2022.
 
 Grade: A
